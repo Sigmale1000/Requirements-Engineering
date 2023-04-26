@@ -3,6 +3,18 @@
 <p>A comprehensive guide to asking stakeholders and project organizers the right questions for different types of projects and getting the information crucial for successful development.</p>
 </div>
 
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/Sigmale1000/Requirements-Engineering?style=social)
+![Forks](https://img.shields.io/github/forks/Sigmale1000/Requirements-Engineering?style=social)
+![Issues](https://img.shields.io/github/issues/Sigmale1000/Requirements-Engineering)
+![License](https://img.shields.io/github/license/Sigmale1000/Requirements-Engineering)
+![Contributors](https://img.shields.io/github/contributors/Sigmale1000/Requirements-Engineering)
+![Last Commit](https://img.shields.io/github/last-commit/Sigmale1000/Requirements-Engineering)
+![Repo Size](https://img.shields.io/github/repo-size/Sigmale1000/Requirements-Engineering)
+
+</div>
+
 ## Table of Contents
 
 1. [Overview](#overview)
