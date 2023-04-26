@@ -1,6 +1,10 @@
-# Requirements Engineering :question: :clipboard:
+<div align="center" width="100%">
+<h1>Requirements Engineering :question: :clipboard:</h1>
+<p>A comprehensive guide to asking stakeholders and project organizers the right questions for different types of projects and get the information important for developing.</p>
 
-A comprehensive guide to asking stakeholders and project organizers the right questions for different types of projects and get the information important for developing.
+</div>
+
+
 
 ## Table of Contents
 
@@ -11,7 +15,7 @@ A comprehensive guide to asking stakeholders and project organizers the right qu
 ## Requirements Engineering
 [Go to Table of Contents](#table-of-contents)
 
-_TODO_
+
 
 ## General Questions
 [Go to Table of Contents](#table-of-contents)
