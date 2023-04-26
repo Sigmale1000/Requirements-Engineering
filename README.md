@@ -175,7 +175,7 @@ Requirements engineering is a crucial component of successful project developmen
 
 - [Sciencedirect](https://www.sciencedirect.com/topics/computer-science/requirement-engineering#:~:text=Requirements%20engineering%20is%20the%20process,for%20all%20subsequent%20development%20activities.)
 - [Wikipedia](https://en.wikipedia.org/wiki/Requirements_engineering)
-- [Technik- [Technikum Wien](https://academy.technikum-wien.at/ratgeber/was-ist-requirements-engineering/)
+- [Technikum Wien](https://academy.technikum-wien.at/ratgeber/was-ist-requirements-engineering/)
 - [ChatGPT](openai.com)
 
 ## Contributors
